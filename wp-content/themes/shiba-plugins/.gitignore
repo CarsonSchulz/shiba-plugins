@@ -1,0 +1,7 @@
+# Theme gitignore
+
+# Start with VSCode files
+.vscode/
+
+# OS generated files
+.DS_Store
