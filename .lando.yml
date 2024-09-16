@@ -1,0 +1,7 @@
+name: shiba-plugins
+recipe: wordpress
+config:
+  webroot: .
+services:
+  appserver:
+    type: php:8.2
